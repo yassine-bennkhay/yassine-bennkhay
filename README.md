@@ -19,7 +19,7 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://medium.com/me/stories/public)
+▶ [...more blog articles](https://bennkhay113.hashnode.dev/)
 
 ---
 
