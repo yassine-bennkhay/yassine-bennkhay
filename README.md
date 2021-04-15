@@ -3,6 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/yassine_dev1?style=social)
 
 A Flutter Developer by heart and mind! actually, a self-taught Flutter developer who is passionate about building real-world Apps.
+[a link](https://www.instagram.com/yassine_dev1/)
 <!--
 **yassine-bennkhay/yassine-bennkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
