@@ -22,6 +22,7 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Git basics you should know!](https://bennkhay113.hashnode.dev/the-git-basics-you-should-know)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://bennkhay113.hashnode.dev/)
