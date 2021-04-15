@@ -7,7 +7,11 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
  
 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg" alt="dart Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" alt="flutter Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="git Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg" alt="dart Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" alt="flutter Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="git Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg" alt="dart Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="dart Logo" width="50" height="50"/>
+
+
+
 
 
 <!--
