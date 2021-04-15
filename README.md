@@ -2,6 +2,10 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/yassine_dev1?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/Yassin_Bennkhay?style=social)
+- 🔭 I’m currently working on Flutter and Dart
+- 👯 I’m looking to collaborate on Flutter Projects
+- 💬 Ask me about Anything!
+- 📫 How to reach me: you can reach me on [Instagram](https://www.instagram.com/yassine_dev1/)
 
 A Flutter Developer by heart and mind! actually, a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on it useful stuff about Flutter and Dart.
