@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/yassine_dev1?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Yassin_Bennkhay?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/<yassine_dev1>?style=social)
 <!--
 **yassine-bennkhay/yassine-bennkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
