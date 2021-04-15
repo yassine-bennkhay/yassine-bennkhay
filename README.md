@@ -7,9 +7,9 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
  ---
 
 🧰 Toolbox
-
+img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg" width="50" height="50"/>
 ---
-https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg
+
 <!--
 **yassine-bennkhay/yassine-bennkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
