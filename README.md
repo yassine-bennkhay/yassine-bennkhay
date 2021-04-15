@@ -24,6 +24,11 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
 
 ---
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
