@@ -17,7 +17,6 @@ A Flutter Developer by heart and mind! actually, a self-taught Flutter developer
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [second test](https://bennkhay113.hashnode.dev/second-test)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://bennkhay113.hashnode.dev/)
