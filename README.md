@@ -22,7 +22,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The Git basics you should know!](https://yassinedev1.me/the-git-basics-you-should-know-1)
+- [The Git basics you should know!](https://yassine-bennkhay.tech/the-git-basics-you-should-know-1)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://bennkhay113.hashnode.dev/)
