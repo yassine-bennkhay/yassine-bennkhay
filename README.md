@@ -22,6 +22,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate collection of vscode extensions for flutter](https://yassine-bennkhay.tech/the-ultimate-collection-of-vscode-extensions-for-flutter)
 - [The Git basics you should know!](https://yassine-bennkhay.tech/the-git-basics-you-should-know-1)
 <!-- BLOG-POST-LIST:END -->
 
