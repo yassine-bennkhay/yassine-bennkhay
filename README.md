@@ -2,7 +2,7 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/yassine_dev1?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/Yassin_Bennkhay?style=social)
-<a href="https://dev.to/yassine353">
+ <h4>Visit my Profile on:</h4><a href="https://dev.to/yassine353">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yassine BENNKHAY's DEV Community Profile" height="30" width="30">
 </a>
      
