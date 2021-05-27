@@ -1,15 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/yassine_dev1?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/Yassin_Bennkhay?style=social)
- <h4>Visit my Profile on:</h4><a href="https://dev.to/yassine353">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yassine BENNKHAY's DEV Community Profile" height="30" width="30">
-</a>
-     
-- 🔭 I’m currently working on Flutter and Dart
-- 👯 I’m looking to collaborate on Flutter Projects
+  - 🔭 I’m currently working on Flutter and Dart
+- 🌱 I’m currently learning Flutter and Dart
+- 👯 I’m looking to collaborate on Flutter and Dart
 - 💬 Ask me about Anything!
-- 📫 How to reach me?: you can reach me on [Instagram](https://www.instagram.com/yassine_dev1/)!
+- 📫 How to reach me: Please take a look at my Social Media Below!
+- ⚡ Fun fact: I stay in front of my Laptop a lot!
 
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Blog](https://bennkhay113.hashnode.dev/) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
@@ -35,12 +31,35 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 ---
 
-## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p  align="left">
-<img height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
-<img  height="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
+
+<p align="center">
+<h1> &#x1f4c8; My GitHub Stats</h1>
+</p>
+
+<p align="center">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&theme=radical">
+</p>
+
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
+    <a target= "_blank" href="https://hashnode.com/@yassine-bennkhay" alt="Hashnode"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/hashnode_icon.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/yassine_dev1/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
+    <a target= "_blank" href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/" alt="LinkedIn"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
+  <a target= "_blank" href="https://twitter.com/yassine_dev1" alt="twitter"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Twitter.png"></a>
+  
+    
+  </p>
+  
+</p>
+
+
+<p  align="center">
+<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
+<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
 </p>
 <img  src="https://activity-graph.herokuapp.com/graph?username=yassine-bennkhay&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
 <!--
