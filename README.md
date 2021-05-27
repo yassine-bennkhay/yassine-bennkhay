@@ -39,10 +39,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical)](https://git.io/streak-stats)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=yassine-bennkhay&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
+<p align="right">
+<img height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
+<img  height="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
+</p>
+<img  src="https://activity-graph.herokuapp.com/graph?username=yassine-bennkhay&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
 <!--
 **yassine-bennkhay/yassine-bennkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
