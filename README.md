@@ -38,8 +38,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="right">
+<p  align="left">
 <img height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
 <img  height="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
 </p>
