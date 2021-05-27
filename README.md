@@ -40,6 +40,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
