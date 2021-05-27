@@ -42,7 +42,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 </p>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i> Hello there, Let's connect and collaborate, It's a pleasure to see your message!</i>
 
   <p align="center">
     <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
