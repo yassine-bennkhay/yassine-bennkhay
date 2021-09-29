@@ -41,6 +41,10 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <p align="center">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&theme=radical">
 </p>
+<p align="center">
+  ⚡ Number of Visitors ⚡<br>
+  <br><img src="https://profile-counter.glitch.me/yassine-bennkhay/count.svg" />
+</p>
 
 <p align="center">
   <i> Hello there, Let's connect and collaborate, It's a pleasure to see your message!</i>
