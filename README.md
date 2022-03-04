@@ -1,5 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!
----
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!</h1>
+
   - 🔭 I’m currently working on Flutter and Dart
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Flutter and Dart
