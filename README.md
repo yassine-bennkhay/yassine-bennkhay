@@ -54,7 +54,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <p align="center"><a href="https://www.buymeacoffee.com/yassinedev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yassine" /></a></p><br><br>
 </p>
 <p align="center">
-  <i> Hello there, Let's connect and collaborate, It's a pleasure to see your message!</i>
+  <i> Don't be a stranger! come and say Hi, let's connect and collaborate together.</i>
 
   <p align="center">
     <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
