@@ -56,7 +56,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
   <p align="center">
     <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
     <a target= "_blank" href="https://hashnode.com/@yassine-bennkhay" alt="Hashnode"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/hashnode_icon.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/yassine_dev1/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/yassinebennkhay/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/" alt="LinkedIn"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
   <a target= "_blank" href="https://twitter.com/yassine_dev1" alt="twitter"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Twitter.png"></a>
   
