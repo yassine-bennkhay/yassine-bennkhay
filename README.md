@@ -40,7 +40,6 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <p align="center">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&theme=radical">
 </p>
-![Yassine's GitHub stats](https://github-readme--stats.codestackr.vercel.app/api?username=yassine-bennkhay&theme=radical&show_icons=true)
 
 <p align="center">
   ⚡ Number of Visitors ⚡<br>
@@ -67,7 +66,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 
 <p  align="center">
-<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
+<img  width="400px" src="https://github-readme--stats.codestackr.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
 <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
 </p>
 <img  src="https://activity-graph.herokuapp.com/graph?username=yassine-bennkhay&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
