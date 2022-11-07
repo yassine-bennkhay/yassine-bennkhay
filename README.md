@@ -66,7 +66,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 
 <p  align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=synthwave" alt="Yassine :: Profile Stats" />
 
 <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
 </p>
