@@ -11,8 +11,8 @@
 
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Blog](https://bennkhay113.hashnode.dev/) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
+ <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png">
  
-🧰 Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,java,cpp,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
 
