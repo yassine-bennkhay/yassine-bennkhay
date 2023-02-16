@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 async function getBlogPosts() {
-  const url = `http://yassinebenkhay.com/wp-json/wp/v2/posts?_embed&per_page=3`;
+  const url = `https://yassinebenkhay.com/wp-json/wp/v2/posts`;
   const response = await fetch(url);
   const data = await response.json();
   const posts = data.map(post => `- [${post.title.rendered}](${post.link})`);
