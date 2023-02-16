@@ -18,16 +18,10 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 ---
 
-📘 Latest Blog Articles
+## Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Cookbook: Over 100 proven techniques and solutions for app development with Flutter 2.2 and Dart.](https://yassine-bennkhay.tech/flutter-cookbook-over-100-proven-techniques-and-solutions-for-app-development-with-flutter-22-and-dart)
-- [Fetch data from the Internet with Flutter.](https://yassine-bennkhay.tech/fetch-data-from-the-internet-with-flutter)
-- [The ultimate collection of vscode extensions for flutter](https://yassine-bennkhay.tech/the-ultimate-collection-of-vscode-extensions-for-flutter)
-- [The Git basics you should know!](https://yassine-bennkhay.tech/the-git-basics-you-should-know-1)
 <!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://bennkhay113.hashnode.dev/)
 
 ---
 
