@@ -14,7 +14,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png">
  
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,java,cpp,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,nodjs,react,java,cpp,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
 
 ---
 
