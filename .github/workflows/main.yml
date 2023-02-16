@@ -1,14 +1,26 @@
-name: Latest blog post workflow
+name: Update Latest Blog Posts
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs every 24 hours
+    - cron: '0 */24 * * *'
+
 jobs:
-  update-readme-with-hashnode-blog:
-    name: Update this repo's README with the latest hashnode blog posts
+  update-readme:
+    name: Update README with Latest Blog Posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.4.2
         with:
-          feed_list: "https://bennkhay113.hashnode.dev/rss.xml"
+          node-version: '14.x'
+      - name: Install dependencies
+        run: npm install
+      - name: Update README
+        env:
+          WORDPRESS_URL: your-wordpress-site.com
+        run: node update-readme.js
+
+
