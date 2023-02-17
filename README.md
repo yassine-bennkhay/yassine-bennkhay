@@ -16,16 +16,6 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
 
----
-
-## Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 
 <p align="center">
 <h1> &#x1f4c8; My GitHub Stats</h1>
