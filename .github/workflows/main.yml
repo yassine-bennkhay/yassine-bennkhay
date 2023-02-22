@@ -1,26 +1,26 @@
-name: Update Latest Blog Posts
+# name: Update Latest Blog Posts
 
-on:
-  schedule:
-    # Runs every 24 hours
-    - cron: '0 */24 * * *'
+# on:
+#   schedule:
+#     # Runs every 24 hours
+#     - cron: '0 */24 * * *'
 
-jobs:
-  update-readme:
-    name: Update README with Latest Blog Posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Setup Node.js
-        uses: actions/setup-node@v2.4.2
-        with:
-          node-version: '16.x'
-      - name: Install dependencies
-        run: npm install
-      - name: Update README
-        env:
-          WORDPRESS_URL: yassinebenkhay.com
-        run: node update-readme.js
+# jobs:
+#   update-readme:
+#     name: Update README with Latest Blog Posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v2
+#       - name: Setup Node.js
+#         uses: actions/setup-node@v2.4.2
+#         with:
+#           node-version: '16.x'
+#       - name: Install dependencies
+#         run: npm install
+#       - name: Update README
+#         env:
+#           WORDPRESS_URL: yassinebenkhay.com
+#         run: node update-readme.js
 
 
