@@ -15,5 +15,6 @@ jobs:
         with:
           # Your RSS feed url
           feed_list: "https://yassinebenkhay.com/feed"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
           # Maximum number of posts you want
           max_post_count: 3
