@@ -29,7 +29,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 </p>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
+- [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
+- [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
+- [The Ultimate Collection of vscode Extensions for Flutter](https://yassinebenkhay.com/vscode-extensions-for-flutter/)
+<!-- BLOG-POST-LIST:END -->
 </table>
 <p align="center">
   ⚡ Number of Visitors ⚡<br>
