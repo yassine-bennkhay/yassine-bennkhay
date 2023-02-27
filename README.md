@@ -25,13 +25,12 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&theme=radical">
 </p>
 <p align="center">
-<h1> &#x1f4c8; Latest Blog Articles</h1>
+<h1> 📖 Latest Blog Articles</h1>
 </p>
-<!-- BLOG-POST-LIST:START -->
-- [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
-- [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
-- [The Ultimate Collection of vscode Extensions for Flutter](https://yassinebenkhay.com/vscode-extensions-for-flutter/)
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 <p align="center">
   ⚡ Number of Visitors ⚡<br>
   <br><img src="https://profile-counter.glitch.me/yassine-bennkhay/count.svg" />
