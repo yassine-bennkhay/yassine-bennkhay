@@ -1,8 +1,8 @@
-name: Latest stack oveflow activity
+name: Latest wordpress posts
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '0 0 * * 1'
 permissions:
       contents: write
 jobs:
