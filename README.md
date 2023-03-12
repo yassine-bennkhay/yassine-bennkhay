@@ -15,11 +15,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
  
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Best Paying Jobs in Computer Software Prepackaged Software](https://yassinebenkhay.com/best-paying-jobs-in-computer-software-repackaged-software/)
+- [Build and Deploy a Domain Name Checker With NodeJs and ExpressJs](https://yassinebenkhay.com/domain-name-checker-api/)
+- [Chatgpt Login: Fix, Tips, and Tricks!](https://yassinebenkhay.com/chatgpt-login-tips-tricks/)
 - [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
-- [The Ultimate Collection of vscode Extensions for Flutter](https://yassinebenkhay.com/vscode-extensions-for-flutter/)
-- [Best Nft Podcasts You Should Start Listening To Today](https://yassinebenkhay.com/best-nft-podcasts/)
-- [14+ Best NFT Subreddit You Should Join Today](https://yassinebenkhay.com/best-nft-subreddit/)
 <!-- BLOG-POST-LIST:END -->
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
 
