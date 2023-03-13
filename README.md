@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!</h1>
-<a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a>
+
   - 🔭 I’m currently working on Flutter and Dart
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Flutter and Dart
 - 💬 Ask me about Anything!
 - 📫 How to reach me: Please take a look at my Social Media Below!
 - ⚡ Fun fact: I stay in front of my Laptop a lot!
-
+<a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a>
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Blog](https://yassinebenkhay.com) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
 <!--  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"> -->
