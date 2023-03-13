@@ -21,9 +21,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 - [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 <!-- BLOG-POST-LIST:END -->
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&perline=9&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&theme=light)](https://skillicons.dev)
 
 <p align="center">
 <h1> &#x1f4c8; My GitHub Stats</h1>
