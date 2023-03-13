@@ -12,7 +12,7 @@
 
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
  I managed to create an online presence with my [Blog](https://yassinebenkhay.com) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
- <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png">
+<!--  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"> -->
  
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
