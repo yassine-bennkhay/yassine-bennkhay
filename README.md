@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!</h1>
+<a href="https://app.daily.dev/yassine_dev1"><img src="https://api.daily.dev/devcards/06b3fa94eac94734b37a960e9c3392a8.png?r=iy6" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a>
 
   - 🔭 I’m currently working on Flutter and Dart
 - 🌱 I’m currently learning Flutter and Dart
