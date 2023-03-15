@@ -13,6 +13,7 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
  I managed to create an online presence with my [Blog](https://yassinebenkhay.com) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
 <!--  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"> -->
 <!--  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a> -->
+#
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Best Paying Jobs in Computer Software Prepackaged Software](https://yassinebenkhay.com/best-paying-jobs-in-computer-software-repackaged-software/)
@@ -21,11 +22,15 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 - [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
 - [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 <!-- BLOG-POST-LIST:END -->
+#
+### Programming Languages, Frameworks, and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&&perline=9&theme=light)](https://skillicons.dev)
+#
 <p align="center">
 <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="center" alt="Yassin BENNKHAY's Dev Card"/></a>
 </p>
+
 <!-- <p align="center">
 <h1> &#x1f4c8; My GitHub Stats</h1>
 </p> -->
