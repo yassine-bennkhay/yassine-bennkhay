@@ -16,11 +16,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 #
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAis Services Are Not Available in Your Country: Here’s The Solution!](https://yassinebenkhay.com/openais-services-are-not-available-in-your-country/)
 - [Best Paying Jobs in Computer Software Prepackaged Software](https://yassinebenkhay.com/best-paying-jobs-in-computer-software-repackaged-software/)
 - [Build and Deploy a Domain Name Checker With NodeJs and ExpressJs](https://yassinebenkhay.com/domain-name-checker-api/)
 - [Chatgpt Login: Fix, Tips, and Tricks!](https://yassinebenkhay.com/chatgpt-login-tips-tricks/)
 - [Which Attributes Describe a Good Landing Page Experience?](https://yassinebenkhay.com/good-landing-page-experience-attributes/)
-- [Best Books to Learn Flutter in 2023](https://yassinebenkhay.com/best-books-to-learn-flutter-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 #
 ### Programming Languages, Frameworks, and Tools
