@@ -16,11 +16,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 #
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 Multi-Restaurant Flutter App Templates](https://yassinebenkhay.com/best-multi-restaurant-flutter-app-templates/)
 - [Restaurant Flutter App UI Design](https://yassinebenkhay.com/restaurant-flutter-app-ui-design/)
 - [Chatgpt Internal Server Error](https://yassinebenkhay.com/chatgpt-internal-server-error/)
 - [Chatgpt Error in Body Stream: Why?](https://yassinebenkhay.com/chatgpt-error-in-body-stream/)
 - [OpenAis Services Are Not Available in Your Country: Here’s The Solution!](https://yassinebenkhay.com/openais-services-are-not-available-in-your-country/)
-- [Best Paying Jobs in Computer Software Prepackaged Software](https://yassinebenkhay.com/best-paying-jobs-in-computer-software-repackaged-software/)
 <!-- BLOG-POST-LIST:END -->
 #
 ### Programming Languages, Frameworks, and Tools
