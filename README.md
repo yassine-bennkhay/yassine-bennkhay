@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Flutter and Dart
 - 💬 Ask me about Anything!
-- 📫 How to reach me: Please take a look at my Social Media Below!
+- 📫 How to reach me: Please look at my Social Media Below!
 - ⚡ Fun fact: I stay in front of my Laptop a lot!
 
 A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
