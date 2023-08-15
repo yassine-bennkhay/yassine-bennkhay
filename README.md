@@ -16,11 +16,11 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 #
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Create an AI Image Generator, Flutter Clean Architecture Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/)
 - [Create an AI Image Generator In Flutter, Clean Architecture Part 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/)
 - [Create an AI Image Generator In Flutter, Clean Architecture Part 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/)
 - [How To Create a Custom AppBar In Flutter](https://yassinebenkhay.com/create-a-custom-appbar-in-flutter/)
 - [How To Change AppBar Color In Flutter&lpar;2 Ways&rpar;](https://yassinebenkhay.com/change-appbar-color-in-flutter/)
-- [How To Integrate AdMob Ads in Flutter App](https://yassinebenkhay.com/how-to-integrate-admob-ads-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 #
 ### Programming Languages, Frameworks, and Tools
