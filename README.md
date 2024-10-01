@@ -15,8 +15,8 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <!--  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a> -->
 ## My iOS Apps
 
-<!-- APP-STORE-LIST-START -->
-<!-- APP-STORE-LIST-END -->
+<!-- IOS-APP-LIST:START -->
+<!-- IOS-APP-LIST:END -->
 
 #
 📕 &nbsp;**Latest Blog Posts**
