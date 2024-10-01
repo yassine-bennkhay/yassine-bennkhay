@@ -15,8 +15,16 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 <!--  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a> -->
 ## My iOS Apps
 
-<!-- IOS-APP-LIST:START -->
-<!-- IOS-APP-LIST:END -->
+
+### HydrateMate
+<p>
+  Stay hydrated and feel your best with HydrateMate, the ultimate app designed to help you track your daily water intake and maintain optimal hydration levels throughout the day. Whether at home, work, or on the go, HydrateMate makes it easy to reach your hydration goals.
+</p>
+<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+
+<a href="https://apps.apple.com/us/app/hydratemate-water-reminder/id6698897670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 #
 📕 &nbsp;**Latest Blog Posts**
