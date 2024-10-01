@@ -20,7 +20,7 @@ jobs:
           APPLE_ID="your.email@example.com"
           
           # Fetch app data from App Store
-          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?attributeName=yassine-benkhay/&attributeValue=benkhayyassine8@gmail.com&entity=software&limit=10&sort=recent" | tr -d '\000')
+          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?attributeName=yassine-benkhay/&attributeValue=id1769430215&entity=software&limit=10&sort=recent" | tr -d '\000')
           
           if [ $? -ne 0 ]; then
             echo "Failed to fetch data from iTunes API"
