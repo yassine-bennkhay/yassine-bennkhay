@@ -1,9 +1,8 @@
-name: Latest iOS Apps from App Store
-
+name: Update iOS Apps in README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */2 * *' # Runs every two days
+    - cron: '0 0 */2 * *'  # Runs every 2 days
 
 permissions:
   contents: write
@@ -14,31 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Fetch iOS apps from App Store
         run: |
-          # Replace 'YOUR_DEVELOPER_ID' with your actual developer ID (numeric)
-          DEVELOPER_ID="1769430215"
-          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=${DEVELOPER_ID}&entity=software")
-          if [ $? -ne 0 ]; then
-            echo "Failed to fetch data from iTunes API"
-            exit 1
-          fi
+         
+          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=1769430215&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
           
-          FORMATTED_LIST=$(echo "$APP_LIST" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")\n"')
-          if [ -z "$FORMATTED_LIST" ]; then
-            echo "No apps found or empty response"
-            exit 1
-          fi
-          
-          # Insert app list into README.md where the placeholder is
-          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\
-          <!-- APP-STORE-LIST-START -->\n'"${FORMATTED_LIST}"'<!-- APP-STORE-LIST-END -->' README.md
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
+          # Insert the app list into README.md where the placeholder is
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
+
       - name: Commit changes
-        if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
