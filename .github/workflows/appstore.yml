@@ -1,0 +1,30 @@
+name: Update README with iOS Apps
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run daily
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch iOS apps from App Store
+        run: |
+          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=1769430215&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
+          echo "Fetched apps: $APP_LIST"
+
+      - name: Update README with App Store Apps
+        run: |
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'yassine-bennkhay'
+          git config --global user.email 'benkhayyassine8@gmail.com'
+          git add README.md
+          git commit -m "Update iOS apps list"
+          git push
