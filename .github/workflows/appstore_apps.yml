@@ -17,7 +17,7 @@ jobs:
       - name: Fetch iOS apps from App Store
         run: |
           # Replace 'YOUR_DEVELOPER_ID' with your actual developer ID (numeric)
-          DEVELOPER_ID="2c2e7702-5ffb-4978-a4d4-44ff12678df0"
+          DEVELOPER_ID="238f082f-d67c-4d12-b2ed-0d528b84837d"
           APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=${DEVELOPER_ID}&entity=software")
           if [ $? -ne 0 ]; then
             echo "Failed to fetch data from iTunes API"
