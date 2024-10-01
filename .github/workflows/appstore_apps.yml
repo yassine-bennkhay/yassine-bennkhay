@@ -1,0 +1,31 @@
+name: Latest iOS Apps from App Store
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */2 * *'  # Runs every two days
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-apps:
+    name: Update README with latest iOS apps
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch iOS apps from App Store
+        run: |
+          # Replace 'YOUR_DEVELOPER_ID' with your actual developer ID
+          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=2c2e7702-5ffb-4978-a4d4-44ff12678df0&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
+          
+          # Insert app list into README.md where the placeholder is
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with latest apps from App Store"
+          git push
