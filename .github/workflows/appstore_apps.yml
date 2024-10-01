@@ -18,9 +18,12 @@ jobs:
         run: |
          
           APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=1769430215&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
+
+          # Write the app list to a temporary file to handle newlines correctly
+          echo -e "${APP_LIST}" > app_list.txt
           
           # Insert the app list into README.md where the placeholder is
-          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"$(cat app_list.txt)"'\n<!-- APP-STORE-LIST-END -->' README.md
 
       - name: Commit changes
         run: |
