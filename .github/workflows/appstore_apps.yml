@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch iOS apps from App Store
         run: |
-          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=2c2e7702-5ffb-4978-a4d4-44ff12678df0&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
+          APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=238f082f-d67c-4d12-b2ed-0d528b84837d&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
           
           # Insert app list into README.md where the placeholder is
           sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
