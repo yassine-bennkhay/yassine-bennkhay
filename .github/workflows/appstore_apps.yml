@@ -1,34 +1,30 @@
-name: Update iOS Apps in README
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 */2 * *'  # Runs every 2 days
+name: Update README with iOS Apps
 
-permissions:
-  contents: write
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run daily
 
 jobs:
-  update-readme-with-apps:
-    name: Update README with latest iOS apps
+  update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Fetch iOS apps from App Store
         run: |
-         
           APP_LIST=$(curl -s "https://itunes.apple.com/lookup?id=1769430215&entity=software" | jq -r '.results[] | "- [" + .trackName + "](" + .trackViewUrl + ")"')
+          echo "Fetched apps: $APP_LIST"
 
-          # Write the app list to a temporary file to handle newlines correctly
-          echo -e "${APP_LIST}" > app_list.txt
-          
-          # Insert the app list into README.md where the placeholder is
-          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"$(cat app_list.txt)"'\n<!-- APP-STORE-LIST-END -->' README.md
-
-      - name: Commit changes
+      - name: Update README with App Store Apps
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'your-username'
+          git config --global user.email 'your-email'
           git add README.md
-          git commit -m "Update README with latest apps from App Store"
+          git commit -m "Update iOS apps list"
           git push
