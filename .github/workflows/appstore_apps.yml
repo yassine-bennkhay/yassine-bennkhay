@@ -19,15 +19,12 @@ jobs:
 
       - name: Update README with App Store Apps
         run: |
-          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\
-<!-- APP-STORE-LIST-START -->\
-'"$(cat app_list.txt)"'\
-<!-- APP-STORE-LIST-END -->' README.md
+          sed -i '/<!-- APP-STORE-LIST-START -->/,/<!-- APP-STORE-LIST-END -->/c\\n<!-- APP-STORE-LIST-START -->\n'"${APP_LIST}"'\n<!-- APP-STORE-LIST-END -->' README.md
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'your-username'
-          git config --global user.email 'your-email'
+          git config --global user.name 'yassine-bennkhay'
+          git config --global user.email 'benkhayyassine8@gmail.com'
           git add README.md
           git commit -m "Update iOS apps list"
           git push
