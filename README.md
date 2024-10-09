@@ -22,7 +22,25 @@ A Flutter Developer by heart and mind! a self-taught Flutter developer who is pa
 </p>
 <!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
 
-<a href="https://apps.apple.com/us/app/hydratemate-water-reminder/id6698897670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<a href="https://apps.apple.com/us/app/hydratemate-water-reminder/id6698897670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<a href="https://hydratemate.yassinebenkhay.com" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
+</p>
+
+<hr>
+
+### StickerAI
+<p>
+  Create beautiful stickers in seconds with StickerAI! Just type what you want, and AI will make a custom sticker for you. Download or share your stickers instantly.
+
+
+StickerAI lets you create custom stickers in just a few taps. Type a prompt, and our AI will turn your ideas into stickers ready for sharing or printing.
+</p>
+<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+
+<a href="https://apps.apple.com/us/app/stickerai-ai-sticker-maker/id6736551965" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<a href="https://stickerai.yassinebenkhay.com" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
+
+</p>
 
 <hr>
 
