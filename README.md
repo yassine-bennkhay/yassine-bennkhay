@@ -47,11 +47,11 @@ StickerAI lets you create custom stickers in just a few taps. Type a prompt, and
 #
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [StickerAI: AI Sticker Maker for iOS](https://yassinebenkhay.com/ai-sticker-maker-for-ios/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sticker-maker-for-ios)
 - [Plants Selling Flutter UI App Design](https://yassinebenkhay.com/plants-selling-flutter-ui-app-design/?utm_source=rss&utm_medium=rss&utm_campaign=plants-selling-flutter-ui-app-design)
 - [7 Best Flutter Repositories on GitHub](https://yassinebenkhay.com/7-best-flutter-repositories-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-flutter-repositories-on-github)
 - [Top 8 Ecommerce Flutter App Templates](https://yassinebenkhay.com/top-8-ecommerce-flutter-app-templates/?utm_source=rss&utm_medium=rss&utm_campaign=top-8-ecommerce-flutter-app-templates)
 - [10 Best Flutter UI Kits](https://yassinebenkhay.com/best-flutter-ui-kits/?utm_source=rss&utm_medium=rss&utm_campaign=best-flutter-ui-kits)
-- [Create an AI Image Generator, Flutter Clean Architecture Part 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/?utm_source=rss&utm_medium=rss&utm_campaign=create-an-ai-image-generator-flutter-clean-architecture-part-3)
 <!-- BLOG-POST-LIST:END -->
 #
 ### Programming Languages, Frameworks, and Tools
