@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!</h1>
 
   - 🔭 I’m currently working on Flutter and Dart
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning Swift/SwiftUI
 - 👯 I’m looking to collaborate on Flutter and Dart
 - 💬 Ask me about Anything!
 - 📫 How to reach me: Please look at my Social Media Below!
