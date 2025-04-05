@@ -100,7 +100,7 @@ Flutter developer with a passion for building beautiful, functional, and user-fr
 </div>
 
 <div align="center">
-  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" alt="Yassine BENNKHAY's Dev Card"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=yassine-bennkhay&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" />
 </div>
 
 ## 🤝 Connect With Me
