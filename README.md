@@ -1,77 +1,65 @@
+<div align="center">
+  
+  # Yassine BENKHAY
+  
+  ### Flutter Developer & Mobile App Creator
+  
+  [![Blog](https://img.shields.io/badge/Blog-yassinebenkhay.com-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white)](https://yassinebenkhay.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-Yassine_Benkhay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassinebennkhay/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Benkhay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Yassine_Bennkhay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yassinebenkhay)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=tokyonight" alt="Yassine's GitHub Streak" />
+</div>
 
+## 👨‍💻 About Me
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yassine BENNKHAY!</h1>
+Flutter developer with a passion for building beautiful, functional, and user-friendly mobile applications. Self-taught and continuously learning, I create real-world apps that solve everyday problems.
 
-  - 🔭 I’m currently working on Flutter and Dart
-- 🌱 I’m currently learning Swift/SwiftUI
-- 👯 I’m looking to collaborate on Flutter and Dart
-- 💬 Ask me about Anything!
-- 📫 How to reach me: Please look at my Social Media Below!
-- ⚡ Fun fact: I stay in front of my Laptop a lot!
+- 🔭 Currently working with **Flutter** and **Dart**
+- 🌱 Building godarija.com
+- 👯 Open to collaborating on **Flutter** and **Dart** projects
+- 📱 Published multiple apps on the App Store and Google Play
+- 📝 Write technical blogs about mobile development
+- ⚡ Fun fact: My laptop is my constant companion!
 
-A Flutter Developer by heart and mind! a self-taught Flutter developer who is passionate about building real-world Apps.
- I managed to create an online presence with my [Blog](https://yassinebenkhay.com) and [Instagram](https://www.instagram.com/yassine_dev1/) page which I share on them useful stuff about Flutter and Dart.
-<!--  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"> -->
-<!--  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="right" alt="Yassin BENNKHAY's Dev Card"/></a> -->
-## My Apps
+## 📱 Featured Apps
 
+<div align="center">
 
-### HydrateMate
-<p>
-  Stay hydrated and feel your best with HydrateMate, the ultimate app designed to help you track your daily water intake and maintain optimal hydration levels throughout the day. Whether at home, work, or on the go, HydrateMate makes it easy to reach your hydration goals.
-</p>
-<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+### 💧 HydrateMate
 
-<a href="https://apps.apple.com/us/app/hydratemate-water-reminder/id6698897670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<a href="https://hydratemate.yassinebenkhay.com" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
-</p>
+<p>Stay hydrated and feel your best with HydrateMate, the ultimate app to track your daily water intake and maintain optimal hydration levels throughout the day.</p>
 
-<hr>
+<a href="https://apps.apple.com/us/app/hydratemate-water-reminder/id6698897670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Download_on_the-App_Store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://hydratemate.yassinebenkhay.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue.svg?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
-### StickerAI
-<p>
-  Create beautiful stickers in seconds with StickerAI! Just type what you want, and AI will make a custom sticker for you. Download or share your stickers instantly.
+### 🎨 StickerAI
 
+<p>Create beautiful stickers in seconds with StickerAI! Type what you want, and AI will make a custom sticker for you. Download or share your stickers instantly.</p>
 
-StickerAI lets you create custom stickers in just a few taps. Type a prompt, and our AI will turn your ideas into stickers ready for sharing or printing.
-</p>
-<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+<a href="https://apps.apple.com/us/app/stickerai-ai-sticker-maker/id6736551965" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Download_on_the-App_Store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://stickerai.yassinebenkhay.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue.svg?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
-<a href="https://apps.apple.com/us/app/stickerai-ai-sticker-maker/id6736551965" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<a href="https://stickerai.yassinebenkhay.com" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
+### 🕌 Muslim Companion
 
-</p>
+<p>Enhance your spiritual journey with morning and evening Adkar, Asma Allah Al-Husna with meanings, Islamic Duas, and more. Features include favorites, Tasbeeh counter, and sharing capabilities.</p>
 
-<hr>
+<a href="https://apps.apple.com/us/app/%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9-%D9%88%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id6737455413" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Download_on_the-App_Store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.yassinebenkhay.muslimcompanion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_it_on-Google_Play-green.svg?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://muslimcompanion.yassinebenkhay.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue.svg?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
-### Muslim Companion
-<p>
-Muslim Companion App, is designed to enhance your spiritual journey with a variety of features. It includes morning and evening Adkar (remembrances), Asma Allah Al-Husna (The Names of Allah) with their meanings, a collection of Islamic Duas (supplications), and Adkar after prayer. You can save your favorite Adkar for quick access, use an easy-to-operate Tasbeeh counter to incorporate remembrances into your daily routine and share Adkar and Duas as images. With a user-friendly interface and offline usability, this app is perfect for users of all ages, accessible anytime and anywhere.
-</p>
-<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+### 📚 FlashcardsAI
 
-<a href="https://apps.apple.com/us/app/%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9-%D9%88%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id6737455413" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.yassinebenkhay.muslimcompanion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-black.svg?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-<a href="https://muslimcompanion.yassinebenkhay.com" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
+<p>Transform your study notes into flashcards with FlashcardsAI. Convert handwritten or typed notes into digital flashcards for smarter studying and better retention.</p>
 
-</p>
-<hr>
+<a href="https://apps.apple.com/us/app/flashcards-ai-easy-flashcards/id6738055670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Download_on_the-App_Store-black.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://flashcardsai.yassinebenkhay.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue.svg?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
-### FlashcardsAI
-<p>
-  Turn your study notes into flashcards with Flashcards AI. Easily convert your handwritten or typed notes into digital flashcards for smarter studying, better retention, and faster learning.
-</p>
-<!--  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  -->
+</div>
 
-<a href="https://apps.apple.com/us/app/flashcards-ai-easy-flashcards/id6738055670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<a href="https://flashcardsai.yassinebenkhay.com/" target="_blank"><img alt="Landing Page" src="https://img.shields.io/badge/Landing%20Page-blue.svg?style=for-the-badge&logo=internet-explorer" /></a>
+## 📕 Latest Blog Posts
 
-</p>
-
-<hr>
-
-#
-📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Quizlet Alternative AI: Study Notes to Flashcards](https://yassinebenkhay.com/quizlet-alternative-ai/?utm_source=rss&utm_medium=rss&utm_campaign=quizlet-alternative-ai)
 - [StickerAI: AI Sticker Maker for iOS](https://yassinebenkhay.com/ai-sticker-maker-for-ios/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sticker-maker-for-ios)
@@ -79,50 +67,58 @@ Muslim Companion App, is designed to enhance your spiritual journey with a varie
 - [7 Best Flutter Repositories on GitHub](https://yassinebenkhay.com/7-best-flutter-repositories-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-flutter-repositories-on-github)
 - [Top 8 Ecommerce Flutter App Templates](https://yassinebenkhay.com/top-8-ecommerce-flutter-app-templates/?utm_source=rss&utm_medium=rss&utm_campaign=top-8-ecommerce-flutter-app-templates)
 <!-- BLOG-POST-LIST:END -->
-#
-### Programming Languages, Frameworks, and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,php,react,java,c,cpp,html,css,javascript,git,github,androidstudio,vscode,ps,ai&&perline=9&theme=light)](https://skillicons.dev)
-#
-<p align="center">
-<a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" align="center" alt="Yassin BENNKHAY's Dev Card"/></a>
-</p>
+## 🛠️ Technologies & Tools
 
-<!-- <p align="center">
-<h1> &#x1f4c8; My GitHub Stats</h1>
-</p> -->
+<div align="center">
 
-<p align="center">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&theme=radical">
-</p>
+### Programming Languages & Frameworks
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<p align="center">
-  ⚡ Number of Visitors ⚡<br>
-  <br><img src="https://profile-counter.glitch.me/yassine-bennkhay/count.svg" />
-</p>
-<p align="center">
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yassinedev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yassine" /></a></p><br><br>
-</p>
-<p align="center">
-  <i> Don't be a stranger! come and say Hi, let's connect and collaborate together.</i>
+### Tools & Platforms
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/products/illustrator.html)
 
-  <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
-    <a target= "_blank" href="https://hashnode.com/@yassine-bennkhay" alt="Hashnode"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/hashnode_icon.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/yassinebennkhay/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/" alt="LinkedIn"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
-  <a target= "_blank" href="https://twitter.com/yassine_dev1" alt="twitter"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Twitter.png"></a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-bennkhay&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/yassine_dev1"><img src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/devcard.svg" width="300" alt="Yassine BENNKHAY's Dev Card"/></a>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <p><i>Don't be a stranger! Say hi, let's connect and collaborate together.</i></p>
   
-    
-  </p>
+  <a href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/yassine_dev1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/yassine_dev1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://hashnode.com/@yassine-bennkhay"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100006392266503"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</div>
+
+<div align="center">
+  <h3>Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/yassinedev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yassinedev&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
   
-</p>
-
-
-<p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yassine-bennkhay&show_icons=true&theme=synthwave" alt="Yassine :: Profile Stats" />
-
-<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
-</p>
-
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=yassine-bennkhay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
+</div>
