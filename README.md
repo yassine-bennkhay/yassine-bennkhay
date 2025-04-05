@@ -6,7 +6,7 @@
   
   [![Blog](https://img.shields.io/badge/Blog-yassinebenkhay.com-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white)](https://yassinebenkhay.com)
   [![Instagram](https://img.shields.io/badge/Instagram-Yassine_Benkhay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassinebennkhay/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Benkhay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Benkhay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-benkhay-0b73411b4)
   [![Twitter](https://img.shields.io/badge/Twitter-Yassine_Bennkhay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yassinebenkhay)
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=tokyonight" alt="Yassine's GitHub Streak" />
