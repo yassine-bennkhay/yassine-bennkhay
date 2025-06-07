@@ -61,11 +61,11 @@ Flutter developer with a passion for building beautiful, functional, and user-fr
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cake with pecans and caramel from the southern region](https://yassinebenkhay.com/cake-with-pecans-and-caramel-from-the-southern-region/?utm_source=rss&utm_medium=rss&utm_campaign=cake-with-pecans-and-caramel-from-the-southern-region)
 - [Quizlet Alternative AI: Study Notes to Flashcards](https://yassinebenkhay.com/quizlet-alternative-ai/?utm_source=rss&utm_medium=rss&utm_campaign=quizlet-alternative-ai)
 - [StickerAI: AI Sticker Maker for iOS](https://yassinebenkhay.com/ai-sticker-maker-for-ios/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sticker-maker-for-ios)
 - [Plants Selling Flutter UI App Design](https://yassinebenkhay.com/plants-selling-flutter-ui-app-design/?utm_source=rss&utm_medium=rss&utm_campaign=plants-selling-flutter-ui-app-design)
 - [7 Best Flutter Repositories on GitHub](https://yassinebenkhay.com/7-best-flutter-repositories-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=7-best-flutter-repositories-on-github)
+- [Top 8 Ecommerce Flutter App Templates](https://yassinebenkhay.com/top-8-ecommerce-flutter-app-templates/?utm_source=rss&utm_medium=rss&utm_campaign=top-8-ecommerce-flutter-app-templates)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Technologies & Tools
