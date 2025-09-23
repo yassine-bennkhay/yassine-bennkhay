@@ -115,10 +115,4 @@ Flutter developer with a passion for building beautiful, functional, and user-fr
   <a href="https://www.facebook.com/profile.php?id=100006392266503"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
 
-<div align="center">
-  <h3>Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/yassinedev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yassinedev&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=yassine-bennkhay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
-</div>
+
