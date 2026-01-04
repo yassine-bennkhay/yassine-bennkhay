@@ -27,7 +27,6 @@
 I am a **Flutter developer** with a passion for building beautiful, functional, and user-friendly mobile applications. Self-taught and continuously learning, I create real-world apps that solve everyday problems.
 
 - 🔭 Currently working with **Flutter** and **Dart**
-- 🌱 Building **godarija.com**
 - 👯 Open to collaborating on **Flutter** and **Dart** projects
 - 📱 Published multiple apps on the App Store and Google Play
 - 📝 Writing technical blogs about mobile development
